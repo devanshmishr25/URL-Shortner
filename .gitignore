@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.DS_Store
+.env
+.env.local
+storage/
+bootstrap/cache/
+database/database.sqlite
+.vscode/
+*.log
